@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: skateorsplit.com
-Token: fd951efd7da2e5449be70ae4ffd78eed3cdd92295c764605ac6a362942c87cf5
